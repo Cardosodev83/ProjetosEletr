@@ -29,17 +29,17 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 ### Transformador: 
 Componente eletrônico encarregado de converter a voltagem elétrica de entrada em níveis mais adequados para uma aplicação específica, utilizando bobinas e os princípios eletromagnéticos da Lei de Faraday-Lenz. No projeto, foi selecionado um transformador comercial para transformar uma entrada de 127V para cerca de 24V.
 ### Diodos:
-Componentes eletrônicos com a propriedade de permitir a passagem de corrente elétrica em apenas uma direção. No projeto, são empregados na montagem de uma ponte de diodos, um dispositivo retificador de tensão que possibilita a utilização de ambos os ciclos da corrente alternada de entrada.
+Componentes eletrônicos com a propriedade de permitir a passagem de corrente elétrica em apenas um sentido. No projeto, são empregados na montagem de uma ponte de diodos, um dispositivo retificador de tensão que possibilita a utilização de ambos os ciclos da corrente alternada de entrada.
 ### Resistores:
 Componentes eletrônicos que possuem valores predefinidos de resistência, responsáveis por assegurar a corrente adequada no circuito, garantindo o funcionamento correto de cada um dos componentes presentes.
 ### Capacitor:
-Componente eletrônico que tem a capacidade de armazenar pequenas quantidades de carga elétrica e fornecer corrente contínua quando a tensão interna é maior do que a externa. No projeto, utilizamos um capacitor de 680uF.
+Componente eletrônico que tem a capacidade de armazenar pequenas quantidades de energia elétrica e fornecer corrente contínua quando a tensão interna é maior do que a externa. No projeto, utilizamos um capacitor de 680uF.
 ### Potenciômetro:
 Componente elétrico com resistência variável, permitindo regular o fluxo de corrente e, consequentemente, modificar os valores de tensão do circuito. No projeto, foi utilizado para permitir a seleção dos valores de tensão entre 3V a 12V.
 ### Diodo Zener:
 Variação do diodo convencional conhecido como diodo zener, caracterizado por permitir a passagem de corrente apenas quando a tensão aplicada é superior à sua tensão de trabalho especificada pelo fabricante, limitando assim a voltagem máxima permitida no circuito. No projeto, foi utilizado para garantir valores de tensão máxima inferiores a 13V, com uma margem de erro máxima de 12V.
 ### Transistor:
-Componente eletrônico capaz de alternar ou amplificar sinais e potência elétrica. No projeto, foi utilizado para controlar a corrente elétrica no circuito, a fim de evitar desperdício de corrente no diodo zener.
+Componente eletrônico capaz de comutar ou amplificar sinais e potência elétrica. No projeto, foi utilizado para controlar a corrente elétrica no circuito, a fim de evitar desperdício de corrente no diodo zener.
 
 ## Funcionamento:
 

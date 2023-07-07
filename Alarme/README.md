@@ -14,7 +14,7 @@ Alame residencial feito com arduino.
 | Buzzer | R$18,90 |
 | LED | R$0,33 |
 | Sensor |emprestado|
-| ***TOTAL*** | ***R$40,33** |
+| ***TOTAL*** | **R$40,33** |
 
 *Componentes comprados na Ca&Ma
 *Componentes comprados no Mercado Livre
