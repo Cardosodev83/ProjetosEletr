@@ -7,7 +7,7 @@ int PinSensor =7;
 int pinLed =9;
 int valorSensor =0;//iniciar desligado
 int frequencia =250; //frequencia da sirene quando ligada
-int tempobuzzerligado =10000; //"milisegundos"
+int tempobuzzerligado =5000; //"milisegundos"
 int atrasododisparo =10000; // tempo que o alarme ativa apos o disparo
 
 void setup()
