@@ -34,4 +34,6 @@ Os resistores são componentes eletrônicos usados para limitar a corrente elét
 ## Imagem do circuito
 
 Circuito no tinkercad
+
+[Link para o Tinkercad](https://www.tinkercad.com/things/2u4JNKDDH9d-exquisite-blad/editel?tenant=circuits)
 ![Circuito](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Alarme/Exquisite%20Blad.png?raw=true)
