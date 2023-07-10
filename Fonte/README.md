@@ -27,7 +27,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 
 ## Ficha Tecnica
 ### Transformador: 
-Componente eletrônico encarregado de converter a voltagem elétrica de entrada em níveis mais adequados para uma aplicação específica, utilizando bobinas e os princípios eletromagnéticos da Lei de Faraday-Lenz. No projeto, foi selecionado um transformador comercial para transformar uma entrada de 127V para cerca de 24V.
+Componente eletrônico encarregado de converter a voltagem elétrica de entrada em níveis mais adequados para uma aplicação específica, utilizando bobinas e os princípios eletromagnéticos da Lei de Faraday-Lenz. No projeto, foi selecionado um transformador comercial para transformar uma entrada de 127V para cerca de 17V.
 ### Diodos:
 Componentes eletrônicos com a propriedade de permitir a passagem de corrente elétrica em apenas um sentido. No projeto, são empregados na montagem de uma ponte de diodos, um dispositivo retificador de tensão que possibilita a utilização de ambos os ciclos da corrente alternada de entrada.
 ### Resistores:
@@ -44,7 +44,7 @@ Componente eletrônico capaz de comutar ou amplificar sinais e potência elétri
 ## Funcionamento:
 
 ### Transformacao:
-Nesta fase, os sinais elétricos de entrada (corrente alternada com tensão de 127V e frequência de 60Hz) são reduzidos em sua diferença de potencial pelo transformador, resultando em valores próximos a 24V, enquanto as outras características da forma de onda são mantidas.
+Nesta fase, os sinais elétricos de entrada (corrente alternada com tensão de 127V e frequência de 60Hz) são reduzidos em sua diferença de potencial pelo transformador, resultando em valores próximos a 17V, enquanto as outras características da forma de onda são mantidas.
 ### Retificacao:
 Nesta etapa, os sinais elétricos em corrente alternada (originados da etapa de transformação) são retificados para um sinal contínuo positivo através da ação da ponte de diodos. Nessa estrutura, a disposição geométrica dos diodos no circuito alterna entre permitir e bloquear a passagem de corrente elétrica, estabelecendo, durante ambos os ciclos da onda, um sentido único para o fluxo de elétrons. O resultado desse processo é uma completa eliminação dos valores negativos de tensão em relação ao eixo das abscissas.
 ### Filtragem: 
