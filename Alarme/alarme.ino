@@ -36,7 +36,7 @@ void loop() {
  dist = duracao * 0.034 / 2;
 
  // Acionar buzzer e LED se objeto detectado estiver a menos de 10cm do sensor:
- if (dist <= 10) {
+ if (dist <= 50) {
    tone(buzzer, 700);
    digitalWrite(led, HIGH);
  }
