@@ -6,8 +6,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 
 | Apresentação da Fonte |
 | --- |
-
-|https://github.com/Cardosodev83/ProjetosEletr/assets/128706259/3024cbd0-3139-40b6-86c0-06971e121b41|
+| <video src="https://github.com/Cardosodev83/ProjetosEletr/assets/128706259/3024cbd0-3139-40b6-86c0-06971e121b41%7C"> </video>|
 
 
 
