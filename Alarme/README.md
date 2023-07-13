@@ -7,6 +7,9 @@ https://github.com/Cardosodev83/ProjetosEletr/assets/128706259/2dc9604b-6295-4fb
 
 https://github.com/Cardosodev83/ProjetosEletr/assets/128706259/ef0cce85-bf24-4e83-8f70-a6f0939ca102
 
+
+
+
 | Componente | Preço |
 | --- | --- |
 | Placa Protoboard | R$20,40|
