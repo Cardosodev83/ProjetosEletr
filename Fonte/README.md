@@ -4,9 +4,9 @@ Fonte de tensão ajustável entre 3V a 12V com capacidade de 100mA.
 Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60Hz de frequencia.
 
 
-| Apresentação da Fonte | Cortador Simétrico |
-| --- | --- |
-| <video src="https://github.com/Cardosodev83/ProjetosEletr/raw/master/Fonte/Fonte.mp4"> </video>|![Diodo Cortado ao meio](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/WhatsApp%20Image%202023-07-10%20at%2022.51.55.jpeg?raw=true)|
+| Apresentação da Fonte |
+| --- |
+| <video src="https://github.com/Cardosodev83/ProjetosEletr/raw/master/Fonte/Fonte.mp4"> </video>|
 
 
 
@@ -72,7 +72,10 @@ Vs/RP = 2 * F * C *R
 ![Cálculo](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)
 
 O capacitor minímo deveria ser de 371 uF, porém como poderiamos errar as contas resolvemos utilizar um de 680 uF, que não altera em nada o circuito, só deixa o ripple menor e o projeto com um custo maior.
+##Cortador Simétrico
 
+Em nossa primeira tentativa de ligar a fonte, por um erro na placa na ponte de diodos, acabamos criando uma nova função para o circuito, um cortador simétrico pois esse foi o resultado que tivemos:
 
+![Diodo Cortado ao meio](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/WhatsApp%20Image%202023-07-10%20at%2022.51.55.jpeg?raw=true)
 
 
