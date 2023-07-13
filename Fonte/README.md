@@ -4,9 +4,9 @@ Fonte de tensão ajustável entre 3V a 12V com capacidade de 100mA.
 Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60Hz de frequencia.
 
 
-| Apresentação da Fonte | Cálculo do Ripple |
+| Apresentação da Fonte | Cortador Simétrico |
 | --- | --- |
-| <video src="https://youtube.com/shorts/rD0HWNUfRLI" style="max-width: 730px;"></video> > |![Cálculo do ripple](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)|
+| <video src="https://github.com/Cardosodev83/ProjetosEletr/raw/master/Fonte/Fonte.mp4" style="max-width: 730px;"></video> > |![Diodo Cortado ao meio](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)|
 
 
 
