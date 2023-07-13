@@ -6,7 +6,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 
 | Apresentação da Fonte | Cálculo do Ripple |
 | --- | --- |
-| <video> VIDEO </video> |![Cálculo do ripple](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)|
+| <video src="https://youtube.com/shorts/rD0HWNUfRLI" style="max-width: 730px;"></video> > |![Cálculo do ripple](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)|
 
 
 
