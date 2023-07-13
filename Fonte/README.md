@@ -59,8 +59,20 @@ Board no EAGLE
 Esquemático no EAGLE
 ![Esquemático no EAGLE](https://i.imgur.com/WNwCi8H.png)
 
-[Circuito no Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcA2aAOMB2ALGXyEw1sESQFJyRsBmcgUwFowwAoAN3DACYVKXe3NGijgQyfmkrSo0BKwDuXXmAngAnCrWRFykEJFhN+4VFYAVDYNMG+o7LKJpkmTSSE1ITkd2jZaCDQUmDSaeJBodAjomJCe2NwJsQiECEx4supZrAAmIEFalNhw+hH64AByxZDYufkIggjI1CXcZSpVcLV58aUiBXYd1d35NX31jc1DXbq2qpQD82ZK1ePYUuM6SgPcTRMmIlv7tiemR71t-WMD59cN1Bs3rABO5P76mLykDjf6bToAYwelEuwP20lgcBcWRhsLh+V8qgI-mQqjQ3EwkVkcDYKw2oO+m106wW90JTyUhNBEh8ZR0NAcAC96AA7ejPZh0fjQTB4AoYTQYeDcJiYUQqLmsRniMo0Noynw2EDMtkcsA0XQ0hGULUUhX7cn3HSqL7vAlmz7lHL0ABmAEMAK4AGwALownfQ8hAZDAvC99dT2nsQfBWABzMEDEnUVSiI5a0GYhyg+NB5ouSZmF0gTD3XbNJP6YNiZjqaDceJob4IXlxOWyXnrdTq5DrBINbgQMAla3250u-0Z-ZDuUyf7xy0DXVGzU2Uy5zOpnx7BNnVhYBxD-PiSfyiAUEq+yBIABK9AAzgBLc8uu0sgH0XSFxPEfTFZY518Y3iF3o6V6-mMv5GuAbRPq+U6TjOAD29TiD8LRZKUsi8PwrBAA)
+[Circuito no Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcA2aAOMB2ALGXyEw1sESQFJyRsBmcgUwFowwAoAN3DACYVKXe3NGijgQyfmkrSo0BKwDuXXmAngAnCrWRFykEJFhN+4VFYAVDYNMG+o7LKJpkmTSSE1ITkdzmkpQgjqEmjckAhIjDBgcNzcNBRSaJjO2Miy6pmsACYgCVqU2HD6kD7gAHJFkNg5eQiCCOlVJWVglXA1uZ4OYSL5dirt1bXdLXUN6YNVNUq2qpT982ZKzb3UUmPcuv3cjeMmIjpKOzanh9vVY6P9R3mX-dgbN6wATuTYPZi8pA43+mE6ADG60oa0eC3qohg8BcmTh8IReTA0DANEwNGQxHUNEycXUsjgbBWGzWPzGRJB+zJzyUZLWIXJrBoDgAXvQAHb0F7MOj8aCYPD5DCaDDwbhMTCiFS81gs8SlPJheU+GwgNmc7mo3QMmhKnWQ27674ffY6VTGnoKulffQgbL0ABmAEMAK4AGwALow3fRchAZNC2G8GfSFbt0vx4KwAOaUh4bfBQ7VhhUpS3nJQhvYuCZmD0gTCQ8MF4j6Pb8EDMNAojAIHEUbDqAU8WQCxs0TxoHHcIzBSUxSj253uj2vcQ2-o5xUyIhhbUTyFG5biM4Fovl5M+bNh0xmnDj3NT3UVijFaHhEAAJXoAGcAJY3j1O9mA+i6NNjD-cIrLr82j+jDobwAZcAEGuAc5KGBvBHgarAAPZ1OIvzUJAmQlLIvD8KwQA)
 
 ![Circuito](https://user-images.githubusercontent.com/24720405/179834899-ba1af617-4492-4a14-963c-7540d1b17340.png)
+
+
+## Cálculos
+
+Como o objetivo era  um Ripple pequeno(10%), a fórmula utilizada simplificada: 
+Vs/RP = 2 * F * C *R
+
+![Cálculo](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/IMG-20230707-WA0040.jpg?raw=true)
+
+O capacitor minímo deveria ser de 371 uF, porém como poderiamos errar as contas resolvemos utilizar um de 680 uF, que não altera em nada o circuito, só deixa o ripple menor e o projeto com um custo maior.
+
+
 
 
