@@ -6,7 +6,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 
 | Apresentação da Fonte | Cortador Simétrico |
 | --- | --- |
-| <video src="https://github.com/Cardosodev83/ProjetosEletr/raw/master/Fonte/Fonte.mp4" style="max-width: 730px;"> </video>|![Diodo Cortado ao meio](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/WhatsApp%20Image%202023-07-10%20at%2022.51.55.jpeg?raw=true)|
+| <video src="https://github.com/Cardosodev83/ProjetosEletr/raw/master/Fonte/Fonte.mp4"> </video>|![Diodo Cortado ao meio](https://github.com/Cardosodev83/ProjetosEletr/blob/master/Fonte/WhatsApp%20Image%202023-07-10%20at%2022.51.55.jpeg?raw=true)|
 
 
 
