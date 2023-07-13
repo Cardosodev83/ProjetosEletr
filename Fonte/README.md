@@ -8,11 +8,6 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 https://github.com/Cardosodev83/ProjetosEletr/assets/128706259/d225af27-bb15-43af-b5f2-a2721c720896
 
 
-| Apresentação da Fonte |
-| --- |
-
-
-
 
 
 | Componente | Preço |
